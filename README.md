@@ -22,3 +22,13 @@ Rust and TypeScript are the most "loved" languages in 2020, both of which have s
 Programmers worldwide seem to be working for around 40 hours a week on average, with slight variations by country.
 
 You can learn and start programming professionally at any age. You're likely to have a long and fulfilling career if you also enjoy programming as a hobby.
+
+
+
+
+2. Covid Italy Data EDA .
+    The file provides four day-wise counts for COVID-19 in Italy
+# - The metrics reported are new cases, deaths, and tests
+# - Data is provided for 248 days: from Dec 12, 2019, to Sep 3, 2020.
+
+Answers the some 
