@@ -17,7 +17,7 @@ We've drawn many inferences from the survey. Here's a summary of a few of them:
 
 
 
-2. Covid Italy Data EDA .
+2. Covid Italy Data EDA-
     The file provides four day-wise counts for COVID-19 in Italy
    - The metrics reported are new cases, deaths, and tests
    - Data is provided for 248 days: from Dec 12, 2019, to Sep 3, 2020.
@@ -42,5 +42,24 @@ Hence ,
 •	Provided insights into the impact of the pandemic on Italy's population and healthcare system.
 •	Created visualizations to illustrate findings and facilitate interpretation by stakeholders.
 •	Produced clean and structured datasets ready for further analysis or integration into dashboards and reports
+
+3.Stock market EDA '2022-08-01' to '2023-01-18’ -
+Stock Market Analysis and Prediction is the project related to Exploratory data analysis(EDA), Data visualization and Predictive analysis using data, provided by The Investors Exchange (IEX).
+•	Leveraged Python, Pandas, and NumPy to clean, preprocess, and analyze stock data. Utilized statistical analysis and data visualization to uncover trends and insights.
+•	Calculated and visualized the daily percentage returns of Apple stock based on its closing prices, allowing for a closer examination of the stock's volatility and risk over time.
+•	Utilized Seaborn's pair plot function to visually analyze the relationships between daily returns of different tech stocks, enabling insights into portfolio interdependencies. Additionally, generated a 
+    correlation plot using Seaborn's heatmap function, providing numerical values for the correlations between daily return values. These analyses facilitated informed decision-making on portfolio composition and 
+    risk management
+
+Answered the following questions along the way:
+What was the change in price of the stock over time?
+What was the daily return of the stock on average?
+What was the moving average of the various stocks?
+What was the correlation between different stocks' closing prices?
+What was the correlation between different stocks' daily returns?
+How much value do we put at risk by investing in a particular stock?
+How can we attempt to predict future stock behavior?
+
+
 
 
