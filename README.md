@@ -60,6 +60,13 @@ What was the correlation between different stocks' daily returns?
 How much value do we put at risk by investing in a particular stock?
 How can we attempt to predict future stock behavior?
 
+Some visualization:
+Ploted the Closing Price  and histogram of return using seaborn lineplot.
+Seen a historical view of the closing price
+Ploted the total volume of stock being traded each day over the past 5 years
+Seen the visualizations for the closing price and the volume traded each day, let's go ahead and caculate the moving average for the stock.
+
+
 
 
 
